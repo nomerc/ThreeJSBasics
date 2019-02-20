@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "npm run webpack",
+    "webpack": "webpack -d --watch"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.5",
+    "gsap": "^2.0.2",
+    "three": "^0.101.1",
+    "webpack": "^4.16.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
